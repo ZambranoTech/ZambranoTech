@@ -7,7 +7,7 @@
 <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
 
 - 🔭 I’m currently working on Android Apps
-- 🌱 I’m currently learning Dart
+- 🌱 Nowdays, I’m into Dart
 - 💬 Ask me about: tech, memes, anime
 - 😄 Pronouns: he/him
 - ⚡ Languages: JavaScript, Java, Dart
