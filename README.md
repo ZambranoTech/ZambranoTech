@@ -3,10 +3,6 @@
         <img src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" alt="Headline" width="40%" />
     </div>  
 <h3 align="center">I'm Javier Garcia, a 20-year old technical enthusiast who does web development, mobile development. Passionate to contribute open-source projects and make cool products.</h3>
-<!--
-**ZambranoTech/ZambranoTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Flutter
 - 🌱 I’m currently learning ...
@@ -16,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
