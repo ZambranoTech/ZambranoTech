@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Javier Garcia</h1>
 <div align=center>
-        <img src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" alt="Headline" width="50%" />
+        <img src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" alt="Headline" width="20%" />
     </div>  
 <h3 align="center">I'm Javier Garcia, a 20-year old technical enthusiast who does web development, mobile development. Passionate to contribute open-source projects and make cool products.</h3>
 <!--
