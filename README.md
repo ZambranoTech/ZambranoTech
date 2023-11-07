@@ -1,5 +1,5 @@
-### Hola, soy Javier 👋
-
+<h1 align="center">Hi 👋, I'm Javier Garcia</h1>
+<h3 align="center">I'm Javier Garcia, a 20-year old technical enthusiast who does web development, mobile development. Passionate to contribute open-source projects and make cool products.</h3>
 <!--
 **ZambranoTech/ZambranoTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
